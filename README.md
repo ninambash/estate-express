@@ -25,8 +25,12 @@ DELETE	/properties/:id	destroy (delete)
 
 
 # ERD
+![Screenshot 2023-02-10 at 4 31 43 PM (3)](https://user-images.githubusercontent.com/81638717/218227826-dd1134eb-88e3-47ca-926c-90c2cfbdb7ec.png)
+
  
 # Wirereame  
+![Screenshot 2023-02-10 at 4 36 24 PM (3)](https://user-images.githubusercontent.com/81638717/218227858-08da6c1d-3f91-4c4a-949d-366458083d73.png)
+
 
 # Tech stack
 NodeJs <br>
